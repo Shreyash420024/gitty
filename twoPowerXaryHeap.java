@@ -80,4 +80,8 @@ public class twoPowerXaryHeap<T extends Comparable<T>> {
     {
         return heap.isEmpty();
     }
+    public void utility()
+    {
+        System.out.println("hi");
+    }
 }
